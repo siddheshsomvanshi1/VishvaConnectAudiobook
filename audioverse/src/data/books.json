@@ -1,0 +1,100 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "image": "https://images.unsplash.com/photo-1587387119725-9d6bac0f22fb",
+      "price": "9.99",
+      "category": "Fiction",
+      "description": "The Great Gatsby is a 1925 novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922."
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      "price": "12.99",
+      "category": "Fiction",
+      "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "image": "https://images.unsplash.com/photo-1495640388908-05fa85288e61",
+      "price": "10.99",
+      "category": "Sci-Fi",
+      "description": "1984 is a dystopian novel by George Orwell published in 1949. The novel is set in Airstrip One, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "price": "8.99",
+      "category": "Romance",
+      "description": "Pride and Prejudice is a romantic novel by Jane Austen, published in 1813. The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage."
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+      "price": "11.99",
+      "category": "Fiction",
+      "description": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adults but is often read by adolescents for its themes of angst and alienation."
+    },
+    {
+      "id": 6,
+      "title": "Lord of the Flies",
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+      "price": "9.99",
+      "category": "Fiction",
+      "description": "Lord of the Flies is a 1954 novel by Nobel Prize-winning British author William Golding. The book focuses on a group of British boys stranded on an uninhabited island and their disastrous attempt to govern themselves."
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "image": "https://images.unsplash.com/photo-1621351183012-e2f9972dd9bf",
+      "price": "14.99",
+      "category": "Sci-Fi",
+      "description": "The Hobbit is a children's fantasy novel by English author J. R. R. Tolkien. It follows the quest of home-loving hobbit Bilbo Baggins to win a share of the treasure guarded by Smaug the dragon."
+    },
+    {
+      "id": 8,
+      "title": "Fahrenheit 451",
+      "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19",
+      "price": "10.99",
+      "category": "Sci-Fi",
+      "description": "Fahrenheit 451 is a dystopian novel by American writer Ray Bradbury, published in 1953. The novel presents a future American society where books are outlawed and 'firemen' burn any that are found."
+    },
+    {
+      "id": 9,
+      "title": "Animal Farm",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "price": "8.99",
+      "category": "Fiction",
+      "description": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy."
+    },
+    {
+      "id": 10,
+      "title": "Brave New World",
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
+      "price": "11.99",
+      "category": "Sci-Fi",
+      "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Set in London in the year AD 2540, the novel anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning."
+    },
+    {
+      "id": 11,
+      "title": "The Odyssey",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73",
+      "price": "9.99",
+      "category": "Fiction",
+      "description": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer. It follows Odysseus, king of Ithaca, as he makes his journey back home after the fall of Troy."
+    },
+    {
+      "id": 12,
+      "title": "Don Quixote",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+      "price": "13.99",
+      "category": "Fiction",
+      "description": "Don Quixote is a Spanish novel by Miguel de Cervantes. Published in two parts, in 1605 and 1615, Don Quixote is the most influential work of literature from the Spanish Golden Age and the entire Spanish literary canon."
+    }
+  ]
+}
