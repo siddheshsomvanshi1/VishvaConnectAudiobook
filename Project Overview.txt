@@ -1,0 +1,61 @@
+Project Overview
+This project aims to develop a user-friendly website to host and distribute ebooks and their corresponding audiobooks. The platform will cater to users who wish to explore, purchase, or subscribe to access digital and audio content. The website will feature a landing page, user authentication (login/sign-up), and a page to browse and access content.
+
+Objectives
+The main objectives of this project include providing an intuitive interface for users to explore ebooks and audiobooks, allowing users to register and log in for personalized access, facilitating subscription-based access to full content, offering free samples of content for non-subscribers, and enabling filtering by category and language, as well as searching for specific content.
+
+Functional Requirements
+Landing Page
+The landing page will display the website logo and tagline. It will offer two main options: Login and Sign-Up buttons. The design will be responsive to ensure seamless access across devices.
+
+Authentication
+For login, there will be email and password input fields along with a "Forgot Password" link. The sign-up form will include fields for Full Name, Email, Password, and Confirm Password, as well as a checkbox for agreeing to the terms and conditions. There will be validation for email format and password strength.
+
+Ebooks and Audiobooks Page
+This page will display content as clickable cards, which will include a cover image, title, and a short description. Users will be able to filter content by category (e.g., Fiction, Non-Fiction, Sci-Fi, Romance) and by language (e.g., English, Hindi, Spanish). A search bar will be available to find ebooks or audiobooks by title, author, or keywords. For users who are not subscribed, a Subscribe button will be shown. If a user is subscribed, full access to the content will be available.
+
+Ebook/Audio Book Details Page
+For subscribers, the details page will display the full content of the ebook or full audio playback controls, with options to play, pause, rewind, or fast-forward the audio. For non-subscribers, the details page will show a sample of the ebook content, allow playback of a short audio preview, and display a prompt to subscribe for full access.
+
+Subscription Management
+The website will integrate with a payment gateway for subscription purchases. User profiles will display the subscription status to indicate whether the user has an active subscription.
+
+Use below technology.
+frontend : react js 
+backend : php
+database: json file (no mysql, no mongodb)
+
+in frontend side you have to create three page
+1. landing page
+2. Ebooks and Audiobooks Page
+3. Ebook/Audio Book Details Page
+
+in 1. Landing Page  add below things
+Features:
+Display the website logo and tagline.
+Two main options: Login and Sign Up buttons.
+Responsive design for seamless access across devices.
+
+Authentication
+Login:
+Email and password input fields.
+Forgot Password link.
+Sign-Up:
+Form with fields: Full Name, Email, Password, Confirm Password.
+Checkbox for agreeing to terms and conditions.
+Validation:
+Email format verification.
+Password strength check.
+
+in 2. Ebooks and Audiobooks Page add below things
+Features:
+Display content as clickable cards (cover image, title, short description).
+Filter Options:
+Select Category (e.g., Fiction, Non-Fiction, Sci-Fi, Romance).
+Select Language (e.g., English, Hindi, Spanish).
+Search Functionality:
+Search bar to find ebooks/audiobooks by title, author, or keywords.
+Subscription Check:
+Display a Subscribe button for unsubscribed users.
+If subscribed, show full access to content.
+
